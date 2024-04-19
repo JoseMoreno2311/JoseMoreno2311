@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello there! I'm Jose Moreno, a cybersecurity enthusiast from Houston, TX. I hold an Associate Degree in Cybersecurity, graduating Magna Cum Laude, and I'm currently in my senior year pursuing a Bachelor's Degree in Cybersecurity, also with a Magna Cum Laude distinction. I'm passionate about cybersecurity and excited to connect with fellow enthusiasts like you!
+Hello there! I'm Jose Moreno, a cybersecurity enthusiast from Houston, TX. I hold an Associate Degree in Cybersecurity, graduating Magna Cum Laude, and I'm currently in my senior year pursuing a Bachelor's Degree in Cybersecurity. I'm passionate about cybersecurity and excited to connect with fellow enthusiasts like you!
 
 ## Skills
 
