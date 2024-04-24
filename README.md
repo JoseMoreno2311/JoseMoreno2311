@@ -1,4 +1,4 @@
-#  Welcome to Jose Moreno's Cybersecurity Profile! 👨‍💻
+#  Welcome to Jose Moreno's Cybersecurity Portfolio! 👨‍💻
 
 ## Introduction
 
