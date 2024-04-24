@@ -16,12 +16,19 @@ My expertise includes:
 - Compliance and Regulations
 - Threat Intelligence
 
-## Connect & Collaborate
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/josemoreno2311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josemoreno2311" height="30" width="40" /></a>
+</p>
 
-Let's connect and collaborate to make the digital world safer:
-- 📧 Email: captainmoreno1@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/josemoreno2311](https://www.linkedin.com/in/josemoreno2311/)
+📧Email: captainmoreno1@gmail.com
+
 
 Looking forward to connecting with you!
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 
 
